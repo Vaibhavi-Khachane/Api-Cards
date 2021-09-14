@@ -1,0 +1,17 @@
+.container{
+    display:inline-block;
+    height: 15em;
+    width: 20em;
+    background-color:white;
+    border: 20px bisque solid;
+    margin: 10px;
+    font-size: large;
+}
+/*Potraite*/
+@media (min-width: 320px) and (max-width: 480px) {
+    
+  }
+/*LandScape*/
+@media (min-width: 481px) and (max-width: 767px) {
+  
+}
